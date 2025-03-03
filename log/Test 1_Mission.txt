@@ -1,0 +1,126 @@
+*******************Creating Ejection Maneuver**********************
+Target Orbit: 25 Gm
+Initial maneuver created. Finding best ejection time...
+Ejection time found. ETA: 60
+Maneuver finalized. dV: 1530
+*******************Creating Ejection Maneuver**********************
+Target Orbit: 25 Gm
+Initial maneuver created. Finding best ejection time...
+Ejection time found. ETA: 60
+Maneuver finalized. dV: 1940
+*******************Creating Ejection Maneuver**********************
+Target Orbit: 25 Gm
+Initial maneuver created. Finding best ejection time...
+Ejection time found. ETA: 60
+Maneuver finalized. dV: 2510
+*******************Creating Ejection Maneuver**********************
+Target Orbit: 25 Gm
+Initial maneuver created. Finding best ejection time...
+Ejection time found. ETA: 60
+Maneuver finalized. dV: 2850
+*******************Creating Ejection Maneuver**********************
+Target Orbit: 25 Gm
+Initial maneuver created. Finding best ejection time...
+Ejection time found. ETA: 275.76
+Maneuver finalized. dV: 15040
+*******************Creating Ejection Maneuver**********************
+Target Orbit: 25 Gm
+Initial maneuver created. Finding best ejection time...
+Ejection time found. ETA: 238.699999999972
+Maneuver finalized. dV: 1210
+*******************Creating Ejection Maneuver**********************
+Target Orbit: 25 Gm
+Initial maneuver created. Finding best ejection time...
+Ejection time found. ETA: 114.599999999969
+Maneuver finalized. dV: 1210
+*******************Creating Ejection Maneuver**********************
+Target Orbit: 25 Gm
+Initial maneuver created. Finding best ejection time...
+Ejection time found. ETA: 22.3999999999651
+Maneuver finalized. dV: 1210
+*******************Creating Ejection Maneuver**********************
+Target Orbit: 25 Gm
+Initial maneuver created. Finding best ejection time...
+Ejection time found. ETA: -55.6400000000358
+Maneuver finalized. dV: 1210
+*******************Creating Ejection Maneuver**********************
+Target Orbit: 25 Gm
+Initial maneuver created. Finding best ejection time...
+Ejection time found. ETA: -105.780000000039
+Maneuver finalized. dV: 1207
+*******************Creating Ejection Maneuver**********************
+Target Orbit: 25 Gm
+Initial maneuver created. Finding best ejection time...
+Ejection time found. ETA: -135.800000000039
+Maneuver finalized. dV: 1207
+*******************Creating Ejection Maneuver**********************
+Target Orbit: 25 Gm
+Initial maneuver created. Finding best ejection time...
+Ejection time found. ETA: -161.780000000039
+Maneuver finalized. dV: 1207
+*******************Creating Ejection Maneuver**********************
+Target Orbit: 25 Gm
+Initial maneuver created. Finding best ejection time...
+Ejection time found. ETA: -183.82000000004
+Maneuver finalized. dV: 1206.5
+*******************Creating Ejection Maneuver**********************
+Target Orbit: 25 Gm
+Initial maneuver created. Finding best ejection time...
+Ejection time found. ETA: -215.880000000041
+Maneuver finalized. dV: 1206
+*******************Creating Ejection Maneuver**********************
+Target Orbit: 25 Gm
+Initial maneuver created. Finding best ejection time...
+Ejection time found. ETA: -250.000000000044
+Maneuver finalized. dV: 1206.5
+*******************Creating Ejection Maneuver**********************
+Target Orbit: 25 Gm
+Initial maneuver created. Finding best ejection time...
+Ejection time found. ETA: -291.980000000043
+Maneuver finalized. dV: 1206
+*******************Creating Ejection Maneuver**********************
+Target Orbit: 25 Gm
+Initial maneuver created. Finding best ejection time...
+Ejection time found. ETA: -310.060000000045
+Maneuver finalized. dV: 1206.75
+*******************Creating Ejection Maneuver**********************
+Target Orbit: 25 Gm
+Initial maneuver created. Finding best ejection time...
+Ejection time found. ETA: -376.080000000045
+Maneuver finalized. dV: 1206
+*******************Creating Ejection Maneuver**********************
+Target Orbit: 25 Gm
+Initial maneuver created. Finding best ejection time...
+Ejection time found. ETA: -562.420000000053
+Maneuver finalized. dV: 1206.75
+*******************Creating Ejection Maneuver**********************
+Target Orbit: 25 Gm
+Initial maneuver created. Finding best ejection time...
+Ejection time found. ETA: -614.420000000053
+Maneuver finalized. dV: 1206
+*******************Creating Ejection Maneuver**********************
+Target Orbit: 25 Gm
+Initial maneuver created. Finding best ejection time...
+Ejection time found. ETA: -694.460000000054
+Maneuver finalized. dV: 1191.25
+*******************Creating Ejection Maneuver**********************
+Target Orbit: 25 Gm
+Initial maneuver created. Finding best ejection time...
+Ejection time found. ETA: 305.699999999993
+*******************Creating Ejection Maneuver**********************
+Target Orbit: 25 Gm
+Initial maneuver created. Finding best ejection time...
+Ejection time found. ETA: 277.679999999993
+*******************Creating Ejection Maneuver**********************
+Target Orbit: 25 Gm
+Initial maneuver created. Finding best ejection time...
+Ejection time found. ETA: 231.619999999992
+*******************Creating Ejection Maneuver**********************
+Target Orbit: 25 Gm
+Initial maneuver created. Finding best ejection time...
+Ejection time found. ETA: 155.51999999999
+*******************Creating Ejection Maneuver**********************
+Target Orbit: 25 Gm
+Initial maneuver created. Finding best ejection time...
+Ejection time found. ETA: 699.199999999983
+Maneuver finalized. dV: 1190.75

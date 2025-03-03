@@ -1,0 +1,11 @@
+KeoSat 1 active.
+Preparing transfer to final KEO orbit.
+Calculated maneuver dV: 170.209822465818
+First maneuver complete.
+Tuning orbital period.
+KEO orbit tuned. Final KEO parameters:
+Apoapsis: 2880446.7
+Periapsis: 2860294.7
+Inclination: 0.1
+Period: 21615.1
+Returning to launch vessel.

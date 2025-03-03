@@ -1,0 +1,12 @@
+*******************Creating Ejection Maneuver**********************
+Target Orbit: 25 Gm
+Initial maneuver created. Finding best ejection time...
+Ejection time found. ETA: 60
+*******************Creating Ejection Maneuver**********************
+Target Orbit: 25 Gm
+Initial maneuver created. Finding best ejection time...
+Ejection time found. ETA: 60
+*******************Creating Ejection Maneuver**********************
+Target Orbit: 25 Gm
+Initial maneuver created. Finding best ejection time...
+Ejection time found. ETA: 60

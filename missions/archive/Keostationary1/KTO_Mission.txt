@@ -1,0 +1,75 @@
+Launch phase started.
+100000
+0
+86
+90
+Autodeployment system actived. Waiting altitude of: 70500
+Autostaging activated. Gravity turn started.
+Staged.
+Fairings deployed.
+Service bays open.
+Antennas extended.
+Solar Panels deployed.
+Systems deployed.
+Launch phase ended.
+Staging off.
+Final parking orbit parameters:
+Apoapsis: 103064.6
+Periapsis: 96543.3
+Inclination: 0.1
+Period: 1957.8
+Phase 2: Transfer to KTO started.
+Raising Apoapsis.
+Time warp to periapsis.
+Time warp ended. Time to periapsis: 179.7
+Staged.
+Apoapsis: 2845707.3
+Apoapsis raised. Tuning.
+KTO maneuver Apoapsis:2880441.22031096
+Raising Periapsis
+Time warp to apoapsis.
+Time warp ended. Time to Apoapsis: 5228.4
+Periapsis: 1221191.2
+Periapsis Raised. Tuning.
+KTO orbit tuned. Final KTO parameters:
+Apoapsis: 2880441.2
+Periapsis: 1221195.5
+Inclination: 0.1
+Period: 14429.9
+KTO maneuver completed.
+Performing payload inventory.
+Vessels remaining: 4
+Preparing payload delivery: KeoSat 3
+Warping to 300 seconds of apoapsis.
+Orienting for delivery.
+Oriented.
+Deploying payload: KeoSat 3
+Payload deployed.
+Switching vessels for final insertion.
+Performing payload inventory.
+Vessels remaining: 3
+Preparing payload delivery: KeoSat 2
+Warping to 300 seconds of apoapsis.
+Orienting for delivery.
+Oriented.
+Deploying payload: KeoSat 2
+Payload deployed.
+Switching vessels for final insertion.
+Performing payload inventory.
+Vessels remaining: 2
+Preparing payload delivery: KeoSat 1
+Warping to 300 seconds of apoapsis.
+Orienting for delivery.
+Oriented.
+Deploying payload: KeoSat 1
+Payload deployed.
+Switching vessels for final insertion.
+Performing payload inventory.
+Vessels remaining: 1
+Calculated deorbit dV: 288.376246541725
+Final deorbit:
+Apoapsis: 2880438
+Periapsis: 1.1
+Inclination: 0.1
+Period: 9743.4
+End of Mission.

@@ -1,0 +1,56 @@
+80000
+-6
+86
+96.4968870671921
+80000
+0
+86
+90
+80000
+-6
+86
+96.4968870687562
+Autodeployment system actived. Waiting altitude of: 70500
+Autostaging activated. Gravity turn started.
+80000
+-6
+86
+96.4968870662794
+Autodeployment system actived. Waiting altitude of: 70500
+Autostaging activated. Gravity turn started.
+Staged.
+Staged.
+Fairings deployed.
+Service bays open.
+Antennas extended.
+Solar Panels deployed.
+Systems deployed.
+Launch phase ended.
+Staging off.
+Final parking orbit parameters:
+DeltaV used: 3267 m/s
+Apoapsis: 82148
+Periapsis: 80890.3
+Inclination: 6.8
+Period: 0:31:21
+80000
+-6
+86
+96.4968870697991
+Autodeployment system actived. Waiting altitude of: 70500
+Autostaging activated. Gravity turn started.
+Staged.
+Staged.
+Fairings deployed.
+Service bays open.
+Antennas extended.
+Solar Panels deployed.
+Systems deployed.
+Launch phase ended.
+Staging off.
+Final parking orbit parameters:
+DeltaV used: 3134 m/s
+Apoapsis: 81305.7
+Periapsis: 80155.1
+Inclination: 6.9
+Period: 0:31:18

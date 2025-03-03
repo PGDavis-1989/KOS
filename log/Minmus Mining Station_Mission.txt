@@ -1,0 +1,21 @@
+80000
+6
+86
+83.5031122322626
+Autodeployment system actived. Waiting altitude of: 70500
+Autostaging activated. Gravity turn started.
+Staged.
+Fairings deployed.
+Service bays open.
+Antennas extended.
+Solar Panels deployed.
+Systems deployed.
+Staged.
+Launch phase ended.
+Staging off.
+Final parking orbit parameters:
+DeltaV used: 3376 m/s
+Apoapsis: 82265.8
+Periapsis: 82149.3
+Inclination: 6.4
+Period: 0:31:24
