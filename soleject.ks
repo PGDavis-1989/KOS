@@ -12,21 +12,23 @@ wait 1.
 executeNextManeuver().
 remove nextNode.
 
-set solOrbit to ship:orbit:nextpatch.
+//time warp to Sol SOI
+until ship:orbit:body = Sun {
+    set warp to 6.
+}
+set warp to 0.
 
 //tune apoapsis
 print "Tuning orbit.".
-print solOrbit:apoapsis.
-until solOrbit:apoapsis >= targetOrbit{
+lock steering to prograde.
+wait 5.
+until ship:apoapsis >= targetOrbit{
     limitThrust(1).
     lock Throttle to 0.5. 
 }
 lock throttle to 0.
 limitThrust(100).
 
-//time warp to Sol SOI then create circulariztion node
-until ship:orbit:body = Sun {
-    set warp to 5.
-}
-set warp to 0.
+//create circulization maneuver
 createCircNode("apo").
+sas on.
