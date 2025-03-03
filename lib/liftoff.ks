@@ -134,7 +134,7 @@ function gravityTurnPID{
     until ship:orbit:eccentricity <= 0.00001 or ship:orbit:eccentricity > oldEcc {
         print ("--- PITCH PID ---") at (0,6).
         set wanted_pitch to pitchPID:UPDATE(time:seconds, ETA:apoapsis).
-        lock steering to heading(90, wanted_pitch).
+        lock steering to heading(myHeading, wanted_pitch).
         print "    Apoapsis: " + round(ship:apoapsis,2) + " m   " at (0,2).
         print "ETA:Apoapsis: " + round(ETA:apoapsis,2) + " s   " at (0,3).
         print "Eccentricity: " + round(ship:orbit:eccentricity,5) + "   " at (0,4).
