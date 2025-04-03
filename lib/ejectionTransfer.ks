@@ -72,7 +72,7 @@ function isPrograde {
     parameter myNode.
 
     set solarApo to myNode:Orbit:nextpatch:Apoapsis.
-    if solarApo > ship:Body:altitude {
+    if solarApo > ship:Body:altitude + Gm{
         return True.
     }
     else {

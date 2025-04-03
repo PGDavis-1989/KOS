@@ -2,9 +2,10 @@ runoncepath("0:/lib/ejectionTransfer.ks").
 runoncepath("0:/lib/executeManeuver.ks"). 
 runoncepath("0:/lib/systems.ks").
 runoncepath("0:/lib/systems.ks").
+runoncepath("0:/lib/units.ks").
 
-set targetOrbit to 25 * 1_000_000_000. //orbit in GM
-
+set targetOrbit to 25 * Gm. //orbit in GM
+print targetOrbit.
 //create and execute ejection maneuver to target orbit
 ejectionPrograde().
 warpToNextManeuver(90).
